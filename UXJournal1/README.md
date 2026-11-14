@@ -12,8 +12,8 @@ The home screen was almost empty, so I scanned it for anything that looked like 
 The app had already found two nearby devices one of which being my Mini and the other was someone else's Nest Hub. After selecting my device the rest was pretty simple, as it mostly ran through steps on its own while telling me what is was doing. It did at one point play a sound out of the Mini and asked me if I had heard the sound, so that I could make sure I selected the correct device. I liked this aspect of **visibility of system status**, since if there had been multiple Mini's to select from I would not have known which was which depending on how people named the device.
 
 <p align="center">
-  <img src="/assets/NearbyDevices.png" alt="NearbyDevices" width="250">
-  <img src="/assets/Sound.png" alt="Sound" width="250">
+  <img src="../assets/NearbyDevices.png" alt="NearbyDevices" width="250">
+  <img src="../assets/Sound.png" alt="Sound" width="250">
 </p>
 
 I ran into an issue when trying to connect the device to my Wi-Fi network. The app said it would automatically grab the password from my phone, but it came back with a "Connection problem during setup" error. This was weird because after the fact I manually typed in my password and it connected immediately, it makes me wonder why it had an issue automatically grabbing the password like it said it would. The error message could be better to point out what went wrong since telling me to check my password when it would grab it automatically and was not something I entered is not very helpful.
