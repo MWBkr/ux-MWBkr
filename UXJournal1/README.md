@@ -4,7 +4,7 @@ I own some WiZ lights which can have their functionality controlled by things li
 ### Setting up the Speaker
 The home screen was almost empty, so I scanned it for anything that looked like it would either add something or had to do with devices. I saw the + in the top right of the screen and since in pretty much every thing I have ever used that means add and I associate it with that because of math I clicked on it. A menu appeared from the bottom of the screen which had Device as an option and so I selected it.
 
-![HomeScreen](/assests/HomePage.png)
+![HomeScreen](/assets/HomePage.png)
 
 The app had already found two nearby devices one of which being my Mini and the other was someone else's Nest Hub. After selecting my device the rest was pretty simple, as it mostly ran through steps on its own while telling me what is was doing. It did at one point play a sound out of the Mini and asked me if I had heard the sound, so that I could make sure I selected the correct device. I liked this aspect of **visibility of system status**, since if there had been multiple Mini's to select from I would not have known which was which depending on how people named the device.
 
