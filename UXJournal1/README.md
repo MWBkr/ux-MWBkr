@@ -32,7 +32,7 @@ Next I wanted to connect the WiZ lights with the Google Home app. Since after se
 This is where my **mental model** broke down, as the way that I expected the process of how I needed to connect the app was not in line with the  **conceptual model** of how the process was actually designed. The way to actually connect the app was under Works with Google, but there was no real descriptive difference between what Linked apps, Works with Google, and Partner Connected were. A small blurb under each of those about what aspect they actually cover would help with bridging the gap between how I expected it work and how it does. After clicking on Works with Google I was taken to a page which was a list of all the apps that I could connect to the Google Home. WiZ was at the top of the page under a section called Linked Services. After clicking on it I was given a prompt to either Reconnect account or unlink account, and since I wanted it connect I chose the first option. After that I was taken through a few pages which just had me confirming which permissions I would be fine with getting shared between the two different software's so that they could talk to each other. Then just needed to select the room that they belonged to within the Google Home and the lights were fully connected.
 
 <p align="center">
-  <img src="/ux-MWBkr/assets/HomePage.png" alt="HomeScreen" width="250">
+  <img src="https://mwbkr.github.io/ux-MWBkr/assets/HomePage.png" alt="HomeScreen" width="250">
 </p>
 
 ### What I'd Change
